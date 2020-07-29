@@ -10,6 +10,5 @@ I am a husband, a driving enthusiast and many many more things beside.
 - 🤓 Currently learning [deno](https://deno.land/), [svelte](https://svelte.dev/).
 - 💬 Ask me anything related to web, javascript world and 👨🏽‍💻.
 - 📬 Reach me on [twitter](https://twitter.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
-- 😄 Pronouns He/His
 - 🎮 Fifa and everything game that involve 🔫.
 - 🍿 Crazy DC fanboy.
