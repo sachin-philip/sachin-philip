@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/labtocat/labtocat/blob/master/launch_day.png" alt="Illustration of me everyday" width=240px height=265px/>
+<img align="right" src="https://www.clipartmax.com/png/middle/192-1929583_by-thecartoonfan-batman-chibi-png.png" alt="Illustration of me everyday" width=240px height=265px/>
 
 # Hello there 👋🏽
 
