@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/labtocat/labtocat/blob/master/sachin_illustration.png" alt="Illustration of me everyday" width=350px height=465px/>
+<img align="right" src="https://github.com/labtocat/labtocat/blob/master/launch_day.png" alt="Illustration of me everyday" width=430px height=465px/>
 
 # Hello there 👋🏽
 
