@@ -1,4 +1,4 @@
-<img align="right" src="https://www.clipartmax.com/png/middle/192-1929583_by-thecartoonfan-batman-chibi-png.png" alt="Illustration of me everyday" width=240px height=265px/>
+<img align="right" src="https://www.pngfind.com/pngs/m/130-1304051_created-and-maintained-by-enrico-zammit-lonardelli-logo.png" alt="Illustration of me everyday" width=240px height=265px/>
 
 # Hello there 👋🏽
 
