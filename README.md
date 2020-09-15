@@ -5,7 +5,7 @@
 I'm a developer advocate and polyglot engineer working with anything I can get my hands on. I am completely self-taught and I know it’s not the easiest journey – but it is incredibly rewarding.
 I am a husband, a driving enthusiast and many many more things beside.
 
-- 👨🏽‍💻 I work 🏡 with [Everreal Gmph](https://www.everreal.co/) focused on digital solution for renting and selling in 🇩🇪 soon will be in 🇦🇹 and 🇨🇭.
+- 👨🏽‍💻 I work 🏡  with [Everreal Gmph](https://www.everreal.co/) focused on digital solution for renting and selling in 🇩🇪 soon will be in 🇦🇹 and 🇨🇭.
 - 📍 Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
 - 🤓 Currently learning [deno](https://deno.land/), [svelte](https://svelte.dev/).
 - 🏗 Development happening in [gitlab](https://gitlab.com/labtocat) these days.
