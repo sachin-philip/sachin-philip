@@ -11,5 +11,5 @@ I am a husband, a driving enthusiast and many many more things beside.
 - 🏗 Development happening in [gitlab](https://gitlab.com/labtocat) these days.
 - 💬 Ask me anything related to web, javascript world and 👨🏽‍💻.
 - 📬 Reach me on [twitter](https://twitter.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
-- 🎮 Fifa and everything game that involve 🔫.
+- 🎮 Fifa and every game that involve 🔫.
 - 🍿 Crazy DC fanboy.
