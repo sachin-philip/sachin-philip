@@ -6,7 +6,7 @@ I'm a developer advocate and polyglot engineer working with anything I can get m
 I am a husband, a driving enthusiast and many many more things beside.
 
 - 👨🏽‍💻 I work 🏡  with [Everreal Gmph](https://www.everreal.co/) focused on digital solution for renting and selling in 🇩🇪 and 🇨🇭 soon will be in 🇦🇹.
-- 📍 Munich, Germany From Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
+- 📍 Munich, Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
 - 🤓 Currently learning [deno](https://deno.land/), [rust](https://www.rust-lang.org/).
 - 🏗 Development happening in [gitlab](https://gitlab.com/labtocat) these days.
 - 💬 Ask me anything related to web, javascript world and 👨🏽‍💻.
