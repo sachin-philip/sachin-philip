@@ -9,7 +9,7 @@ I am a husband, a driving enthusiast and many many more things beside.
 - 📍 Munich, Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
 - 🤓 Currently learning [rust](https://www.rust-lang.org/).
 - 🏗 Development happening in [gitlab](https://gitlab.com/sachin-philip) these days.
-- 💬 Ask me anything related to web, javascript world and 👨🏽‍💻.
+- 💬 Ask me anything related to web, javascript, python and 👨🏽‍💻.
 - 📬 Reach me on [twitter](https://twitter.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
 - 🎮 Fifa and every game that involve 🔫.
 - 🍿 Crazy DC fanboy.
