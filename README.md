@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github.com/labtocat/labtocat/blob/master/bats.png" alt="Illustration of me everyday" width=180px height=400px /> -->
 
-# Hello there 👋🏽
+# Hi there! Sachin here 👋🏽
 
 I'm a developer advocate and polyglot engineer working with anything I can get my hands on. I am completely self-taught and I know it’s not the easiest journey – but it is incredibly rewarding.
 I am a husband, a driving enthusiast and many many more things beside.
