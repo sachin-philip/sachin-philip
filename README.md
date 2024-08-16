@@ -9,7 +9,7 @@ I am a husband, a driving enthusiast and many many more things beside.
 - 📍 [Munich](https://en.wikipedia.org/wiki/Munich), Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
 - 🤖 Currently patching AI Knowledge.
 - 🏗 Development happening in [gitlab](https://gitlab.com/sachin-philip) these days.
-- 💬 Ask me anything related to web, javascript, python and 👨🏽‍💻.
+- 💬 Ask me anything related to web 🌍, data 🗄️ and programming 👨🏽‍💻.
 - 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
 - 🎮 Fifa and every game that involve 🔫.
 - 🍿 Crazy DC fanboy.
