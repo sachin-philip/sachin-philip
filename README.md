@@ -11,4 +11,4 @@ I like to build solutions that make sense in the real world 🧠. I focus on cre
 - 🏗 Development happening in [gitlab](https://gitlab.com/sachin-philip) these days.
 - 💬 Ask me anything related to web 🌍, data 🗄️ and programming 👨🏽‍💻.
 - 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
-- 🍿 DC fanboy.
+- 🍿 DC fanboy and [gamer](https://www.xbox.com/de-DE/play/user/SachinPhilip).
