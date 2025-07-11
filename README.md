@@ -9,6 +9,7 @@ I like to build solutions that make sense in the real world 🧠. I focus on cre
 - 👨🏽‍💻 Staff Software Engineer at [Everreal Gmph](https://www.everreal.co/).
 - 📍 [Munich](https://en.wikipedia.org/wiki/Munich), Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
 - 🏗 Development happening in [gitlab](https://gitlab.com/sachin-philip) these days.
+- 🤖 Find my latest fine tuned models in [HuggingFace](https://huggingface.co/sachin-philip)
 - 💬 Ask me anything related to web 🌍, data 🗄️ and programming 👨🏽‍💻.
 - ᯅ Follow me on [Meta Horizon](https://horizon.meta.com/profile/labtocat/?locale=en_US)
 - 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
