@@ -18,9 +18,8 @@ A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pil
 - **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB…), Docker, Terraform  
 
 ## 🚀 Featured Projects
-- **🔍 RAG Assistant** · A LangChain+ChromaDB-powered personal knowledge bot → [GitHub Repo]  
-- **🤖 Transformer Fine-Tuning** · MiniLM fine-tuned on custom FAQ data with PEFT/LoRA → [Hugging Face]  
-- **📊 Data-Driven Dashboards** · Real-time analytics platform using OpenSearch & Kafka → [Live Demo]  
+- **🔍 RAG Assistant** · A LangChain+ChromaDB-powered personal knowledge bot → [Space](https://huggingface.co/spaces/sachin-philip/memory_manager_raindrop_unread)  
+- **🤖 Transformer Fine-Tuning** · MiniLM fine-tuned on custom FAQ data with PEFT/LoRA → [Hugging Face](https://huggingface.co/sachin-philip/fine-tuned-dora)
 
 ## 🌐 Connect
 - 📫 Email: [Mail](mailto:me@sachinphilip.com)  
