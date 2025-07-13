@@ -3,7 +3,7 @@
 # Hi there, I’m Sachin 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sachin-philip?style=social)](https://github.com/sachin-philip) 
-[![Top Language](https://img.shields.io/github/languages/top/sachin-philip/sachin-philip?color=blue)](https://github.com/sachin-philip/sachin-philip)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-philip&layout=compact&theme=dark)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsachinphilip.com)](https://sachinphilip.com)
 
 ## 👨‍💻 About Me
