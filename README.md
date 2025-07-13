@@ -3,6 +3,7 @@
 # Hi there, I’m Sachin 👋
 
 ![Python – 35.53%](https://img.shields.io/badge/Python-35.53%25-3776AB?logo=python&logoColor=white)
+![TypeScript – 30.82%](https://img.shields.io/badge/TypeScript-30%25-3178C6?logo=typescript&logoColor=white)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsachinphilip.com)](https://sachinphilip.com)
 [![GitHub followers](https://img.shields.io/github/followers/sachin-philip?style=social)](https://github.com/sachin-philip) 
 ![Stars](https://img.shields.io/github/stars/sachin-philip?style=social)
