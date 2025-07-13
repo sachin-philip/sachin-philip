@@ -1,16 +1,32 @@
 <!-- <img align="right" src="https://github.com/labtocat/labtocat/blob/master/bats.png" alt="Illustration of me everyday" width=180px height=400px /> -->
 
-# Hi there! Sachin here 👋🏽
+# Hi there, I’m Sachin 👋
 
-I'm a husband, developer advocate, drone pilot and seasoned polyglot engineer who has spent over a decade crafting breakthrough web and data solutions 🌎. My journey with JavaScript, Typescript and Python has evolved naturally into exploring how Claude MCP and LLM capabilities can transform user experiences and solve complex challenges in elegant ways.
+[![GitHub followers](https://img.shields.io/github/followers/sachin-philip?style=social)](https://github.com/sachin-philip) 
+[![Top Language](https://img.shields.io/github/languages/top/sachin-philip?color=blue)](https://github.com/sachin-philip) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsachinphilip.com)](https://sachinphilip.com)
 
-I like to build solutions that make sense in the real world 🧠. I focus on creating efficient, real-world solutions that address current technological needs like emerging LLM innovations while staying open to emerging trends and innovations.
+## 👨‍💻 About Me
+A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pilot—and lifelong tinkerer in web, data & AI.
 
-- 👨🏽‍💻 Staff Software Engineer at [Everreal Gmph](https://www.everreal.co/).
-- 📍 [Munich](https://en.wikipedia.org/wiki/Munich), Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
-- 🏗 Development happening in [gitlab](https://gitlab.com/sachin-philip) these days.
-- 🤖 Find my latest fine tuned models in [HuggingFace](https://huggingface.co/sachin-philip)
-- 💬 Ask me anything related to web 🌍, data 🗄️ and programming 👨🏽‍💻.
-- ᯅ Follow me on [Meta Horizon](https://horizon.meta.com/profile/labtocat/?locale=en_US)
-- 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
-- 🍿 DC fanboy and [Gamer Xbox](https://www.xbox.com/de-DE/play/user/SachinPhilip).
+## 🛠️ Tech & Skills
+- **Backend:** Python (Flask, Django), Node.js (Express, NestJS)  
+- **Frontend:** React, Vue, Next.js  
+- **AI/ML:** LangChain, RAG, LLM Fine-Tuning (LoRA/PEFT), Hugging Face, Ollama  
+- **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB…), Docker, Terraform  
+
+## 🚀 Featured Projects
+- **🔍 RAG Assistant** · A LangChain+ChromaDB-powered personal knowledge bot → [GitHub Repo]  
+- **🤖 Transformer Fine-Tuning** · MiniLM fine-tuned on custom FAQ data with PEFT/LoRA → [Hugging Face]  
+- **📊 Data-Driven Dashboards** · Real-time analytics platform using OpenSearch & Kafka → [Live Demo]  
+
+## 🌐 Connect
+- 📫 Email: [sachin@…](mailto:me@sachinphilip.com)  
+- 🔗 LinkedIn: [@sachinphilip](https://linkedin.com/in/sachinphilip)  
+- 🐱 GitHub: [@sachin-philip](https://github.com/sachin-philip)  
+- 🤖 Models: [HuggingFace](https://huggingface.co/sachin-philip)  
+- 🎮 VR: Meta Horizon  
+
+## 🎲 Fun Facts
+- DC Comics aficionado 🦸  
+- Xbox gamer 🎮  
