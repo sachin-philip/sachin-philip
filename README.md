@@ -12,8 +12,8 @@
 A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pilot—and lifelong tinkerer in web, data & AI.
 
 ## 🛠️ Tech & Skills
-- **Backend:** Python (Flask, Django), Node.js (Express, NestJS)  
-- **Frontend:** React, Vue, Next.js  
+- **Backend:** Python, Node.js 
+- **Frontend:** React, Vue, Next.js and countless more!
 - **AI/ML:** LangChain, RAG, LLM Fine-Tuning (LoRA/PEFT), Hugging Face, Ollama  
 - **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB…), Docker, Terraform  
 
