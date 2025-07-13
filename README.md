@@ -3,8 +3,10 @@
 # Hi there, I’m Sachin 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sachin-philip?style=social)](https://github.com/sachin-philip) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-philip&layout=compact&theme=dark)
+![Python – 35.53%](https://img.shields.io/badge/Python-35.53%25-3776AB?logo=python&logoColor=white)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsachinphilip.com)](https://sachinphilip.com)
+![Stars](https://img.shields.io/github/stars/sachin-philip?style=social)
+
 
 ## 👨‍💻 About Me
 A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pilot—and lifelong tinkerer in web, data & AI.
@@ -21,8 +23,8 @@ A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pil
 - **📊 Data-Driven Dashboards** · Real-time analytics platform using OpenSearch & Kafka → [Live Demo]  
 
 ## 🌐 Connect
-- 📫 Email: [sachin@…](mailto:me@sachinphilip.com)  
-- 🔗 LinkedIn: [@sachinphilip](https://linkedin.com/in/sachinphilip)  
+- 📫 Email: [Mail](mailto:me@sachinphilip.com)  
+- 🔗 LinkedIn: [@sachin-philip](https://linkedin.com/in/sachin-philip)  
 - 🐱 GitHub: [@sachin-philip](https://github.com/sachin-philip)  
 - 🤖 Models: [HuggingFace](https://huggingface.co/sachin-philip)  
 - 🎮 VR: Meta Horizon  
