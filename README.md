@@ -25,7 +25,7 @@ A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pil
 ## 🌐 Connect
 - 📫 Email: [Mail](mailto:me@sachinphilip.com)  
 - 🔗 LinkedIn: [@sachin-philip](https://linkedin.com/in/sachin-philip)  
-- 🐱 GitHub: [@sachin-philip](https://github.com/sachin-philip)  
+- 🐱 Gitlab: [@sachin-philip](https://githab.com/sachin-philip)  
 - 🤖 Models: [HuggingFace](https://huggingface.co/sachin-philip)  
 - 🎮 VR: Meta Horizon  
 
