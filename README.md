@@ -21,6 +21,3 @@ I like to build solutions that make sense in the real world 🧠. I focus on cre
 - ᯅ Follow me on [Meta Horizon](https://horizon.meta.com/profile/labtocat/?locale=en_US)
 - 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
 - 🍿 DC fanboy and [Gamer Xbox](https://www.xbox.com/de-DE/play/user/SachinPhilip).
-
-## 🌐 Links  
-📫 [Email](mailto:me@sachinphilip.com) · [LinkedIn](https://linkedin.com/in/sachin-philip) · [GitHub](https://github.com/sachin-philip) · [Hugging Face](https://huggingface.co/sachin-philip)
