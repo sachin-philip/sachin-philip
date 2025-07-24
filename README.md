@@ -8,21 +8,19 @@
 [![GitHub followers](https://img.shields.io/github/followers/sachin-philip?style=social)](https://github.com/sachin-philip) 
 ![Stars](https://img.shields.io/github/stars/sachin-philip?style=social)
 
+<!-- <img align="right" src="https://github.com/labtocat/labtocat/blob/master/bats.png" alt="Illustration of me everyday" width=180px height=400px /> -->
 
-## 👨‍💻 About Me
-A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pilot—and lifelong tinkerer in web, data & AI.
+I'm a husband, developer advocate, drone pilot and seasoned polyglot engineer who has spent over a decade crafting breakthrough web and data solutions 🌎. My journey with Python andJavaScript/ Typescript has evolved naturally into exploring Retrieval-Augmented Generation (RAG), transformer fine-tuning, MCP's to solve complex challenges in elegant ways..
 
-## 🛠️ Tech & Skills
-- **Backend:** Python, Node.js 
-- **Frontend:** React, Vue, Next.js and countless more!
-- **AI/ML:** LangChain, RAG, LLM Fine-Tuning (LoRA/PEFT), Hugging Face, Ollama  
-- **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB…), Docker, Terraform  
+I like to build solutions that make sense in the real world 🧠. I focus on creating efficient, real-world solutions that address current technological needs like emerging AI innovations while staying open to emerging trends and innovations.
 
-## 🚀 Featured Projects
-- **🔍 RAG Assistant** · A LangChain+ChromaDB-powered personal knowledge bot → [Space](https://huggingface.co/spaces/sachin-philip/memory_manager_raindrop_unread)  
-- **🤖 Transformer Fine-Tuning** · MiniLM fine-tuned on custom FAQ data with PEFT/LoRA → [Hugging Face](https://huggingface.co/sachin-philip/fine-tuned-dora)
+- 👨🏽‍💻 Staff Software Engineer at [Everreal Gmph](https://www.everreal.co/).
+- 📍 [Munich](https://en.wikipedia.org/wiki/Munich), Germany 🇩🇪 from Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
+- 💬 Ask me anything related to web 🌍, AI/data 🗄️ and programming 👨🏽‍💻.
+- 🚀 View my spaces and AI works in [huggingface](https://huggingface.co/sachin-philip)
+- ᯅ Follow me on [Meta Horizon](https://horizon.meta.com/profile/labtocat/?locale=en_US)
+- 📬 Reach me on [x.com](https://x.com/sachin_philip) and [linkedin](https://www.linkedin.com/in/sachinphilip/).
+- 🍿 DC fanboy and [Gamer Xbox](https://www.xbox.com/de-DE/play/user/SachinPhilip).
 
 ## 🌐 Links  
 📫 [Email](mailto:me@sachinphilip.com) · [LinkedIn](https://linkedin.com/in/sachin-philip) · [GitHub](https://github.com/sachin-philip) · [Hugging Face](https://huggingface.co/sachin-philip)
-
- 
