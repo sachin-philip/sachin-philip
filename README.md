@@ -22,13 +22,7 @@ A polyglot Staff Software Engineer at EverReal (Munich 🌍), husband, drone pil
 - **🔍 RAG Assistant** · A LangChain+ChromaDB-powered personal knowledge bot → [Space](https://huggingface.co/spaces/sachin-philip/memory_manager_raindrop_unread)  
 - **🤖 Transformer Fine-Tuning** · MiniLM fine-tuned on custom FAQ data with PEFT/LoRA → [Hugging Face](https://huggingface.co/sachin-philip/fine-tuned-dora)
 
-## 🌐 Connect
-- 📫 Email: [Mail](mailto:me@sachinphilip.com)  
-- 🔗 LinkedIn: [@sachin-philip](https://linkedin.com/in/sachin-philip)  
-- 🐱 Gitlab: [@sachin-philip](https://githab.com/sachin-philip)  
-- 🤖 Spaces: [HuggingFace](https://huggingface.co/sachin-philip)  
-- 🎮 VR: Meta Horizon  
+## 🌐 Links  
+📫 [Email](mailto:me@sachinphilip.com) · [LinkedIn](https://linkedin.com/in/sachin-philip) · [GitHub](https://github.com/sachin-philip) · [Hugging Face](https://huggingface.co/sachin-philip)
 
-## 🎲 Fun Facts
-- DC Comics aficionado 🦸  
-- Xbox gamer 🎮  
+ 
