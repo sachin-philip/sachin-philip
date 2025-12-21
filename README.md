@@ -10,7 +10,7 @@
 
 <!-- <img align="right" src="https://github.com/labtocat/labtocat/blob/master/bats.png" alt="Illustration of me everyday" width=180px height=400px /> -->
 
-I'm a husband, developer advocate, drone pilot and seasoned polyglot engineer who has spent over a decade crafting breakthrough web and data solutions 🌎. My journey with Python andJavaScript/ Typescript has evolved naturally into exploring Retrieval-Augmented Generation (RAG), transformer fine-tuning, MCP's to solve complex challenges in elegant ways..
+I'm a Dad, husband, drone pilot and seasoned polyglot engineer who has spent over a decade crafting breakthrough web and data solutions 🌎. My journey with Python andJavaScript/ Typescript has evolved naturally into exploring Retrieval-Augmented Generation (RAG), transformer fine-tuning, MCP's to solve complex challenges in elegant ways..
 
 I like to build solutions that make sense in the real world 🧠. I focus on creating efficient, real-world solutions that address current technological needs like emerging AI innovations while staying open to emerging trends and innovations.
 
