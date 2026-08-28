@@ -2,4 +2,4 @@
 More shipping. 🚀  
 Let the code speak.**
 
-[**sachinphilip.com**](https://sachinphilip.com) · [LinkedIn](https://www.linkedin.com/in/sachinphilip/)
+[**sachinphilip.com**](https://sachinphilip.com) · [LinkedIn](https://www.linkedin.com/in/sachin-philip/)
