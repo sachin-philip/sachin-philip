@@ -1,20 +1,3 @@
-```text
-        _________
-    ___/ ______  \__
-   /___  _________ /
-      / /       / /
-     /_/       /_/
-      |         |
-      |_________|
-          ||
-          ||
-        \ (x x) /
-         \ /|\ /
-           / \
-
-        bug fixed.
-```
-
 # Hey, I'm Sachin.
 
 **Staff Software Engineer · Munich, Germany**
